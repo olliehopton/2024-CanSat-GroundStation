@@ -1,3 +1,8 @@
+'''
+Hi
+	- Joshua Bays
+'''
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QHBoxLayout, QWidget, QPushButton, QLabel, QGroupBox, QTextEdit
 from PyQt5.QtGui import QFont, QPainter, QPen
